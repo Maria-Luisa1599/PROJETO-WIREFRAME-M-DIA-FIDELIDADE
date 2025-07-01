@@ -24,3 +24,16 @@ Objetivo: O projeto consiste na criação da estrutura visual de uma loja virtua
     * Botão CTA para WhatsApp.
 * Seção “Como Funciona” com ícones e texto simples;
 * Rodapé com redes sociais + link para WhatsApp.
+
+
+## O que será validado com este wireframe
+* Navegação intuitiva
+* Clareza nas seções (especialmente “Como Funciona”)
+* Facilidade de acesso ao botão de contato
+* Entendimento das categorias principais
+* Hierarquia visual funcional
+
+## LINK DO WIREFRAME NO FIGMA
+https://www.figma.com/design/7VVePjoRZAKv6bDrcnZgPA/PROJETO-WIREFRAME-M%C3%89DIA-FIDELIDADE?node-id=0-1&t=N5RQwZSs73g8BRwG-1
+
+<img src="./CAPTURA DO WIREFRAME.png" alt="PROJETO WIREFRAME DE MÉDIA FIDELIDADE">
